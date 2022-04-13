@@ -1,0 +1,2 @@
+Prefix plugins/RDPChop/example
+Plugin RDPChop inputfile current_Bacteria_unaligned.fa outputfile outfile
